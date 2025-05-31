@@ -1,0 +1,29 @@
+.celeste-claro {
+    color: #4fc3f7; /* celeste claro */
+    text-shadow: 1px 1px 4px #b3e5fc;
+}
+
+.celeste-oscuro {
+    color: #0288d1; /* celeste más oscuro */
+    text-shadow: 1px 1px 4px #81d4fa;
+}
+
+.verde-oscuro {
+    color: #2e7d32; /* verde oscuro */
+    text-shadow: 1px 1px 4px #a5d6a7;
+}
+
+.verde-claro {
+    color: #66bb6a; /* verde claro */
+    text-shadow: 1px 1px 4px #c8e6c9;
+}
+
+.amarillo {
+    color: #ffd600; /* amarillo fuerte */
+    text-shadow: 1px 1px 4px #fffde7;
+}
+
+.amarillo-claro {
+    color: #ffe066; /* amarillo claro más oscuro */
+    text-shadow: 1px 1px 4px #fffde7;
+}
